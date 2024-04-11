@@ -3,6 +3,7 @@ package c3;
 public class Persona {
     
     public String nombre() {
-    	return "Fabri";
+
+    	return "Ramiro";
     }
 }
